@@ -45,3 +45,7 @@ git commit -m "Initial commit: push entire stock-price-aggregator folder"
 
 # Force push to GitHub
 git push -f origin main
+
+## Output Screenshot
+
+![Output](images/output.png)
