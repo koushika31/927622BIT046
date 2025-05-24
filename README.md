@@ -1,4 +1,4 @@
-# 927622BIT046
+# STOCK PRICE GENERATOR
 
 ## Project Overview
 This repository contains the project files for **STOCK PRICE GENERATOR**.  
