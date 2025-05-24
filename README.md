@@ -2,6 +2,8 @@
 
 ## Project Overview
 This repository contains the project files for **STOCK PRICE GENERATOR**.  
+---
+## Tech Stacks Used
 
 ---
 
