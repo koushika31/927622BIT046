@@ -24,7 +24,7 @@ npm install
 3. Run the App
 npm start
 
-Git Commands Used:
+## Git Commands Used:
 
 # Navigate to project root
 cd C:\Users\preth\927622BITO46
