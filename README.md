@@ -26,25 +26,25 @@ npm start
 
 ## Git Commands Used:
 
-# Navigate to project root
+### Navigate to project root
 cd C:\Users\preth\927622BITO46
 
-# Initialize git
+### Initialize git
 git init
 
-# Set default branch to main
+### Set default branch to main
 git checkout -B main
 
-# Add GitHub remote
+### Add GitHub remote
 git remote add origin https://github.com/koushika31/927622BIT046.git
 
-# Stage all files
+### Stage all files
 git add .
 
-# Commit the changes
+### Commit the changes
 git commit -m "Initial commit: push entire stock-price-aggregator folder"
 
-# Force push to GitHub
+### Force push to GitHub
 git push -f origin main
 
 
