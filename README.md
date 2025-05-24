@@ -48,4 +48,5 @@ git push -f origin main
 
 ## Output Screenshot
 
-![Output](images/output.png)
+![Output](stock-price-aggregator/images/output.png)
+
