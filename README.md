@@ -1,27 +1,47 @@
-# STOCK PRICE GENERATOR
+# Stock Price Aggregator
 
-## Project Overview
-This repository contains the project files for **STOCK PRICE GENERATOR**.  
+This project is a **Stock Price Aggregator** built using React and TypeScript. It allows users to view and track stock price data from various sources in a consolidated interface.
+
+## Features
+
+- Real-time stock price display
+- Clean UI built with React
+- TypeScript for better type safety
+
+
 ---
-## Tech Stacks Used
 
----
+## Local Setup Instructions
 
-## Quick Setup & Git Push Guide
+1. **Clone the Repository**
+git clone https://github.com/koushika31/927622BIT046.git
+cd 927622BIT046
 
-Follow these steps to initialize your local repo, connect it to GitHub, and push your code:
+2. Install Dependencies
+npm install
 
-1. Navigate to your project folder
+3. Run the App
+npm start
+
+Git Commands Used:
+
+# Navigate to project root
 cd C:\Users\preth\927622BITO46
-2. Initialize Git
+
+# Initialize git
 git init
-3. Add all files to staging
-git add .
-4. Commit your changes with a message
-git commit -m "Initial commit"
-5. Rename the current branch to main
-git branch -M main
-6. Add remote GitHub repository
+
+# Set default branch to main
+git checkout -B main
+
+# Add GitHub remote
 git remote add origin https://github.com/koushika31/927622BIT046.git
-7. After resolving any merge conflicts and completing the merge commit, push your changes
-git push -u origin main
+
+# Stage all files
+git add .
+
+# Commit the changes
+git commit -m "Initial commit: push entire stock-price-aggregator folder"
+
+# Force push to GitHub
+git push -f origin main
