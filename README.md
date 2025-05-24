@@ -1,6 +1,4 @@
 # Stock Price Aggregator
-## Output 
-
 ![Output](stock-price-aggregator/images/output.png)
 
 This project is a **Stock Price Aggregator** built using React and TypeScript. It allows users to view and track stock price data from various sources in a consolidated interface.
