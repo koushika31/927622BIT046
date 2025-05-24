@@ -1,4 +1,7 @@
 # Stock Price Aggregator
+## Output 
+
+![Output](stock-price-aggregator/images/output.png)
 
 This project is a **Stock Price Aggregator** built using React and TypeScript. It allows users to view and track stock price data from various sources in a consolidated interface.
 
@@ -46,7 +49,4 @@ git commit -m "Initial commit: push entire stock-price-aggregator folder"
 # Force push to GitHub
 git push -f origin main
 
-## Output Screenshot
-
-![Output](stock-price-aggregator/images/output.png)
 
